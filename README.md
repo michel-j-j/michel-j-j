@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to my GitHub Profile my name is Michelle Jauge
+# 👋 Welcome to my GitHub Profile my name is Michelle Jauge
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=michel-j-j&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
