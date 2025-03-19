@@ -1,51 +1,71 @@
-## Hi there 👋
-<h3 align="left">Languages and Tools:</h3>
+# Hi there! 👋 Welcome to my GitHub Profile my name is Michelle Jauge
 
-- Backend
-<p align="left">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=michel-j-j&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer passionate about creating innovative solutions
+- 🌱 Continuous learner and technology enthusiast
+- 🎯 Focused on building scalable and efficient applications 
+
+## 🛠️ Tech Stack
+
+### 🔹 Backend Development
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
   </a>
 </p>
 
-- Frontend
-<p align="left">
+### 🔸 Frontend Development
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
   </a>
 </p>
 
-- Database
-<p align="left">
+### 💾 Database Technologies
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
-- Cloud Servers
-<p align="left">
+### ☁️ Cloud & Infrastructure
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws,cloudflare" />
   </a>
 </p>
 
-- Tools
-<p align="left">
+### 🛠️ Development Tools
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,ps" />
   </a>
 </p>
 
-<hr/>
+## 📊 GitHub Statistics
 
-<div style="display: block;">
-<p>
-  <h3 align="left">Stats:</h3>
-<p>
-    <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=michel-j-j&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="michel-j-j" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=michel-j-j&show_icons=true&theme=dark&locale=en" alt="michel-j-j" /></p></a>  
-  </p>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=michel-j-j&show_icons=true&theme=tokyonight&locale=en&hide=jupyter%20notebook,lex&langs_count=8" alt="Most Used Languages"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michel-j-j&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michel-j-j&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michelle-jauge-689999194)
+
+---
+<div align="center">
+  <em>Feel free to reach out! Always open to interesting conversations and collaboration opportunities. 😊</em>
 </div>
