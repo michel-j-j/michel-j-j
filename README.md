@@ -15,7 +15,7 @@
 ### 🔹 Backend Development
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,express,nestjs,solidity" />
   </a>
 </p>
 
