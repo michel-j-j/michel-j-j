@@ -15,14 +15,14 @@
 ### 🔹 Backend Development
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,express,nestjs,solidity" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,express,solidity" />
   </a>
 </p>
 
 ### 🔸 Frontend Development
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind" />
   </a>
 </p>
 
